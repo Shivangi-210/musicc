@@ -1,0 +1,20 @@
+body{
+    background-image: url("pinky.jpg");
+    background-position: fixed;
+    background-size: cover;
+}
+.smth{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.no{
+    font-size: 20px;
+    background-color: rgb(243, 174, 203);
+    color: white;
+}
+.S{
+   float:left ;
+}
+.V{
+    float: right;
+}
